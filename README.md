@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jeswelry
 Official digital storefront and boutique order management desk for Jeswelry, an authentic authorized reseller of hallmarked 14K–21K fine gold jewelry, heirloom suites, bespoke commissions, and curated timepieces based in Cebu City, Philippines. 
 =======
@@ -49,4 +48,4 @@ All storefront metadata, owner details, category taxonomy, metal filters, and de
 ---
 
 *Engineered and designed by **VERPTO**.*
->>>>>>> 537e617 (Initial commit: Jeswelry storefront and admin)
+
